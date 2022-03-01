@@ -1,0 +1,10 @@
+{
+    "latex-workshop.latex.autoBuild.run": "onSave",
+    "comment": "THis is a workspace settings",
+    "search.exclude": {
+        "thesis.log": true,
+        "thesis.fls": true,
+        "thesis.fdb_latexmk": true
+    },
+    "editor.wordWrap": "on"
+}

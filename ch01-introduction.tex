@@ -1,0 +1,36 @@
+% set counter to n-1:
+\setcounter{chapter}{0}
+
+\chapter{Introduction}
+
+The goal of human pose estimation is to localize semantic keypoints of a human body. 
+Recently, many methods utilize deep convolutional neural networks (CNNs) a
+Conventionally, the pose refinement has been mainly performed by multi-stage architectures 
+
+
+Existing methods for 3D motion capture of athletes can
+be classified into those that use motion sensors and those
+that use visual information only. The methods that use motion sensors can detect the accurate movement of the human
+skeleton by attaching markers to the human body. However, dedicated equipment such as motion sensors are expensive and the environment for measurement is limited.
+ We refine OpenPose with our newly introduce sports
+dataset and a augmentation technique to improve the quality of
+2D pose estimation in extreme poses.
+In addition, markers must be attached on the human body,
+which requires expert knowledge and may not be comfortable for the athlete. As a consequence, non-invasive techniques such as 3D pose estimation from multi-view RGB
+images are preferred ( \cite{DBLP:journals/corr/abs-1907-11346}, \cite{DBLP:journals/corr/abs-1904-01324} , 
+\cite{Xu_2020_CVPR}, \cite{DBLP:journals/corr/abs-2003-00529}, \cite{DBLP:journals/corr/abs-2006-07778}
+
+[ 29],[13]). In general,
+existing methods first estimate the 2D pose of the person
+in each 2D image and then triangulate the 2D skeletons to
+create a 3D skeleton. By doing so, a marker-less, low-cost
+system that can be used anywhere can be built. In such systems, accurate and robust 2D pose estimation is critical.
+
+If taken into account the ultimate goal of using such systems in video production the attention 
+
+s. First, collecting accurate 3D pose annotation for RGB
+images is expensive and time-consuming
+
+The first
+stage locates 2D human key-points from appearance information, while the second stage lifts the 2D joints into 3D
+skeleton employing geometric information. S

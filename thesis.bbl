@@ -1,0 +1,71 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{XYN{\etalchar{+}}20}
+
+\bibitem[Alt89]{Altman89QuaternionScandal}
+Simon~L. Altman.
+\newblock Hamilton, grassmann, rodrigues, and the quaternion scandal---what
+  went wrong with one of the major mathematical discoveries of the nineteenth
+  century?
+\newblock {\em A Mathematical Association of America journal}, dec 1989.
+
+\bibitem[CHS{\etalchar{+}}19]{8765346}
+Z.~{Cao}, G.~{Hidalgo Martinez}, T.~{Simon}, S.~{Wei}, and Y.~A. {Sheikh}.
+\newblock Openpose: Realtime multi-person 2d pose estimation using part
+  affinity fields.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  2019.
+
+\bibitem[CPK{\etalchar{+}}16]{DBLP:journals/corr/ChenPK0Y16}
+Liang{-}Chieh Chen, George Papandreou, Iasonas Kokkinos, Kevin Murphy, and
+  Alan~L. Yuille.
+\newblock Deeplab: Semantic image segmentation with deep convolutional nets,
+  atrous convolution, and fully connected crfs.
+\newblock {\em CoRR}, abs/1606.00915, 2016.
+
+\bibitem[LKP{\etalchar{+}}20]{DBLP:journals/corr/abs-2006-07778}
+Shichao Li, Lei Ke, Kevin Pratama, Yu{-}Wing Tai, Chi{-}Keung Tang, and
+  Kwang{-}Ting Cheng.
+\newblock Cascaded deep monocular 3d human pose estimation with evolutionary
+  training data.
+\newblock {\em CoRR}, abs/2006.07778, 2020.
+
+\bibitem[MCL19]{DBLP:journals/corr/abs-1907-11346}
+Gyeongsik Moon, Ju~Yong Chang, and Kyoung~Mu Lee.
+\newblock Camera distance-aware top-down approach for 3d multi-person pose
+  estimation from a single {RGB} image.
+\newblock {\em CoRR}, abs/1907.11346, 2019.
+
+\bibitem[SVB{\etalchar{+}}19]{DBLP:journals/corr/abs-1904-01324}
+Saurabh Sharma, Pavan~Teja Varigonda, Prashast Bindal, Abhishek Sharma, and
+  Arjun Jain.
+\newblock Monocular 3d human pose estimation by generation and ordinal ranking.
+\newblock {\em CoRR}, abs/1904.01324, 2019.
+
+\bibitem[XYN{\etalchar{+}}20]{Xu_2020_CVPR}
+Jingwei Xu, Zhenbo Yu, Bingbing Ni, Jiancheng Yang, Xiaokang Yang, and Wenjun
+  Zhang.
+\newblock Deep kinematics analysis for monocular 3d human pose estimation.
+\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition (CVPR)}, June 2020.
+
+\bibitem[XZY{\etalchar{+}}20]{DBLP:journals/corr/abs-2003-00529}
+Zhenbo Xu, Wei Zhang, Xiaoqing Ye, Xiao Tan, Wei Yang, Shilei Wen, Errui Ding,
+  Ajin Meng, and Liusheng Huang.
+\newblock Zoomnet: Part-aware adaptive zooming neural network for 3d object
+  detection.
+\newblock {\em CoRR}, abs/2003.00529, 2020.
+
+\bibitem[ZRB{\etalchar{+}}04]{Zwicker04Perspective}
+Matthias Zwicker, Jussi R\"as\"anen, Mario Botsch, Carsten Dachsbacher, and
+  Mark Pauly.
+\newblock Perspective accurate splatting.
+\newblock In {\em Proceedings of Graphics Interface}, pages 247--254, 2004.
+
+\bibitem[ZSG{\etalchar{+}}19]{DBLP:journals/corr/abs-1905-08094}
+Linfeng Zhang, Jiebo Song, Anni Gao, Jingwei Chen, Chenglong Bao, and Kaisheng
+  Ma.
+\newblock Be your own teacher: Improve the performance of convolutional neural
+  networks via self distillation.
+\newblock {\em CoRR}, abs/1905.08094, 2019.
+
+\end{thebibliography}
